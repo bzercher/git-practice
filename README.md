@@ -1,2 +1,1 @@
-#Welcome to our first git repository :)
-
+#Welcome to our first git repo. 
